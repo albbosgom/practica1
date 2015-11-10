@@ -1,1 +1,1 @@
-print "¡Hola mundo! :-) Y gracias je"
+print "¡Hola mundo!"
